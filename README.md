@@ -67,23 +67,13 @@ The platform is built for **faster, smarter, and more confident purchase decisio
 
 ---
 
-## 📦 Setup Instructions
-
-> Coming soon — `setup.md` with API keys, run instructions, and deployment tips.
-
----
-
-## 📄 License
-
-MIT License.  
-© 2025 Atharav Kotwal.
-
----
-
 ## 📬 Contact
 
-> Have suggestions or want to contribute?  
-Open an issue or reach out via [LinkedIn](https://linkedin.com/in/your-link).
+For suggestions, contributions, or any inquiries, feel free to reach out to us:
 
----
+- **Atharav Kotwal** — [atharavsingh2002@gmail.com](mailto:atharavsingh2002@gmail.com)  
+- **Shiya Chopra** — [siyachopra050@gmail.com](mailto:siyachopra050@gmail.com)  
+- **Satyam** — *Email coming soon*  
+
+We’d love to hear from you!
 
